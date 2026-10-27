@@ -1,0 +1,4 @@
+{
+  "purpose": "Approved staging release and recovery",
+  "instructions": "TODO: define approval verification, health checks, rollback and reporting."
+}
